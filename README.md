@@ -30,3 +30,4 @@ By automating interactive conversation through NLP techniques, this implementati
 
 ##*OUTPUT*
 
+<img width="1091" height="332" alt="Image" src="https://github.com/user-attachments/assets/7c0fa7fa-f75c-4f54-8ab8-11d07d18a7be" />
